@@ -1,0 +1,96 @@
+Source URL: https://www.ratemyprofessors.com/professor/2382378
+Professor: Christopher Ryu
+Department: Computer Science
+School: California State University Fullerton
+Overall rating: 2.3 / 5  (from 11 ratings)
+Average difficulty: 3.6 / 5
+Would take again: 33.3333%
+
+============================================================
+STUDENT REVIEWS
+============================================================
+
+Class: CPSC585   Date: 2026-05-25
+Quality: 3/5   Difficulty: 4/5   Would take again: yes   Grade: A
+Tags: none
+Comment: This course is quite difficult, and there is no cheat sheet. You really need to understand and memorize the slides. He also asks conceptual questions on the exams. The homework assignments are large, and doing them alone especially if you don't have materials from last semester can be very challenging.  No TA,the Discord not answer HW questions.
+
+------------------------------------------------------------
+
+Class: CPSC485   Date: 2026-04-21
+Quality: 5/5   Difficulty: 1/5   Would take again: yes   Grade: A+
+Tags: Tough grader, Amazing lectures , Beware of pop quizzes
+Comment: FOR CPSC 254. Very easy class. I don't know why people say he is bad. Well, the exam average were mostly 60%, but he gives extra credits very often, and this will make your D to B+ in no time. The assignments were also really easy and grades fairly. Just come to class and listen to his lecture and you will be fine.
+
+------------------------------------------------------------
+
+Class: CPSC485   Date: 2025-04-28
+Quality: 2/5   Difficulty: 1/5   Would take again: no   Grade: N/A
+Tags: none
+Comment: Class taken was actually CPSC 254*** Class is super easy, lectures are super boring. Homework is lots of tedious work. He gives lots of extra credit out if you go to each class. Encouraged to use AI to help with homework
+
+------------------------------------------------------------
+
+Class: CPSC485   Date: 2024-11-24
+Quality: 2/5   Difficulty: 5/5   Would take again: no   Grade: C
+Tags: Tough grader, Get ready to read
+Comment: This is for CPSC 483 
+Assumes his students are geniuses. Assignment instructions are short and vague. He gives you a 300+ line code on ANN Architecture and Multilayer Perceptron and expects you to modify it to a working Classifier. Quizes are based on his powerpoints and lecture. Class averaged a C on quizes.
+
+------------------------------------------------------------
+
+Class: CPSC585   Date: 2024-04-19
+Quality: 1/5   Difficulty: 5/5   Would take again: no   Grade: N/A
+Tags: Tough grader, Beware of pop quizzes, Lecture heavy
+Comment: Lectures are way too difficult to follow. He just uses a powerpoint that is 3 hours long the whole time. The homework is harder than what is taught in class and he just expects you to know how to do it. He uses a grader who was awful - took forever to grade and barely gave helpful feedback.
+
+------------------------------------------------------------
+
+Class: CPSC585   Date: 2024-03-20
+Quality: 1/5   Difficulty: 5/5   Would take again: no   Grade: Not sure yet
+Tags: Tough grader, Lots of homework
+Comment: Can't teach! Homework and assignments are way more difficult than whatever he teaches. He assumes that you know everything. For example, he delivered a lecture on Artificial Neural Networks (ANN) and its basics, then gave the assignment to train and evaluate the ANN. In short, he doesn't know how to teach.
+
+------------------------------------------------------------
+
+Class: CPSC485   Date: 2023-05-30
+Quality: 5/5   Difficulty: 3/5   Would take again: yes   Grade: A
+Tags: none
+Comment: Overall great teacher!
+
+------------------------------------------------------------
+
+Class: CPSC485   Date: 2023-03-17
+Quality: 1/5   Difficulty: 5/5   Would take again: no   Grade: C
+Tags: Tough grader, Lecture heavy, Test heavy
+Comment: HE TEACHES A LOT OF THINGS FROM THE PPT BUT THERE WILL BE QUIZZES EVERY WEEK SO GRADES ARE ACCORDING TO THEM. BE PREPARED FOR READING EVERYDAY! PROJECTS ARE NOT THAT EASY BUT SOMEHOW WE WILL MANAGE TO DO
+
+------------------------------------------------------------
+
+Class: CPSC491   Date: 2022-12-03
+Quality: 1/5   Difficulty: 5/5   Would take again: no   Grade: Not sure yet
+Tags: Beware of pop quizzes, Lecture heavy, Test heavy
+Comment: Avoid him for machine learning, his lectures are unrealistic. For example, imagine 100 PowerPoint slides with endless mathematical formulas (gibberish). He also has a language barrier and sucks at explaining concepts. Everyone was failing from the start basically from quizzes. We all expect a massive curve. 4 major projects with little to no help.
+
+------------------------------------------------------------
+
+Class: CPSC491   Date: 2022-10-11
+Quality: 1/5   Difficulty: 5/5   Would take again: no   Grade: B
+Tags: Tough grader, Lots of homework, Test heavy
+Comment: Start learning from beginning quiz are hard as compare to what he teach.
+
+------------------------------------------------------------
+
+Class: CPSC491   Date: 2022-08-09
+Quality: 5/5   Difficulty: 2/5   Would take again: yes   Grade: A+
+Tags: Inspirational, Caring, Accessible outside class
+Comment: (CPSC362) He regularly spent 30-60 mins after class answering Q's about different coding/job practices. He uses a PPT, but elaborates on every topic from memory. He truly embodies the term "caring about students". He loves the topic he teaches. Easy grader, which makes learning enjoyable and more meaningful. He only wants you to know the concepts.
+
+------------------------------------------------------------
+
+Class: CPSC491   Date: 2021-04-13
+Quality: 1/5   Difficulty: 2/5   Would take again: no   Grade: Not sure yet
+Tags: none
+Comment: This guy is the worst professor I have ever taken. He is extremely rude and I don't get how anyone could hire this guy to be the department head. He is terrible. I wouldn't recommend taking this guy. No point asking him for help. He doesn't care about students. I don't get he could work as a professor when he doesn't like helping students.
+
+------------------------------------------------------------

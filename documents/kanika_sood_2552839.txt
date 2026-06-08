@@ -1,0 +1,133 @@
+Source URL: https://www.ratemyprofessors.com/professor/2552839
+Professor: Kanika Sood
+Department: Computer Science
+School: California State University Fullerton
+Overall rating: 3.5 / 5  (from 17 ratings)
+Average difficulty: 3.1 / 5
+Would take again: 58.8235%
+
+============================================================
+STUDENT REVIEWS
+============================================================
+
+Class: CPSC483   Date: 2026-03-12
+Quality: 3/5   Difficulty: 3/5   Would take again: no   Grade: N/A
+Tags: none
+Comment: This is for 490
+Very messy start to semester. She wasnt there for 2 weeks, but the uni handled it terribly. It seemed like she thought we had access to canvas at that time. She also didnt seem to know that this class doesnt require implementation. Later on she casually mentioned it on an announcement for something else. This is all the uni's fault!
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2025-12-10
+Quality: 5/5   Difficulty: 3/5   Would take again: yes   Grade: N/A
+Tags: none
+Comment: One of the few teachers in the department who I'd consider to be an actual professor.  The rest are like employees. Her class made me decide that I'd like to become an ML engineer! Exams are on pen and paper, but they were surprisingly not difficult if you paid attention and did all the work.
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2025-12-06
+Quality: 5/5   Difficulty: 2/5   Would take again: yes   Grade: B-
+Tags: Participation matters, Group projects, Gives good feedback
+Comment: Very great professor. So understanding and caring. Teaches ML concepts so well and gives every student an opportunity to take their project to the next level and have it be recognized. I left the class with a great understanding of ML and lectures were always great and engaging. Only con is she keeps track of your participation so if ur shy.....
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2025-12-05
+Quality: 5/5   Difficulty: 2/5   Would take again: yes   Grade: N/A
+Tags: none
+Comment: Wow an actual prof with a personality and engaging lectures and not a human creaking door that just stands behind the podium? A prof that gives you the chance to create impactful work and write research paper that she can help you publish and you can even go to out of state to present it?? A prof that relays weekly ML news?? Are we still in CSUF??
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2025-12-05
+Quality: 5/5   Difficulty: 2/5   Would take again: yes   Grade: N/A
+Tags: none
+Comment: Exams are on paper, but are actually easy if you study. On Discord some students complaining about her, but in reality its cuz they don't pay attention in class and wait til last min to do their work and gets mad cuz she's not replying back in .3 second. She literally makes you take surveys to improve the class. Even willing to push back due dates.
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2025-12-02
+Quality: 1/5   Difficulty: 4/5   Would take again: no   Grade: B
+Tags: Tough grader, Participation matters, Group projects
+Comment: She takes a long time to respond to emails. Exams are in person on paper, the exams are long and difficult. Her lecture slides are very hard to study so you are better off learning everything yourself. Her canvas is not easy to navigate and confusing. Paticipation is required. Lectures were boring and the project is a lot.
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2025-05-31
+Quality: 4/5   Difficulty: 3/5   Would take again: yes   Grade: B
+Tags: Participation matters, Group projects, Amazing lectures
+Comment: Pretty straightforward course. You get a cheat sheet on the two exams, quizzes arent bad at all, as aren't homeworks. You just need a good partner or two for the project and this course should not be that bad. Great professor.
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2024-11-10
+Quality: 3/5   Difficulty: 3/5   Would take again: no   Grade: Not sure yet
+Tags: Participation matters, Group projects, Caring
+Comment: She's knowledgeable and clear in lectures, which makes the material easy to understand. However, she requires forced participation, and it's graded (e.g. raising your hand and asking/answering questions), which can feel unnecessary. Exams are open notes, which is really good for machine learning.
+
+------------------------------------------------------------
+
+Class: CPSC483   Date: 2023-12-03
+Quality: 5/5   Difficulty: 3/5   Would take again: yes   Grade: B
+Tags: Amazing lectures , Gives good feedback, Inspirational
+Comment: She is one of those professors who knows what she is talking about so she sort of makes machine learning somewhere cooler than it is. The professor is very knowledgeable and enthusiastic, and answers all questions with respect. She also made sure that we cover many relevant and important topics.
+
+------------------------------------------------------------
+
+Class: CPSC315   Date: 2023-04-11
+Quality: 5/5   Difficulty: 4/5   Would take again: yes   Grade: B
+Tags: Get ready to read, Participation matters, Gives good feedback
+Comment: - This was the most fun class I have had in a while. Very lively class, with a lot of discussion, interesting topics and recent events that relate to the textbook content. 
+- Get ready to read and participate each week.  
+- I have taken 2 classes with her, CPSC 483: Machine Learning and her enthusiasm is transferable to everyone in the class.
+
+------------------------------------------------------------
+
+Class: CPSC332   Date: 2023-03-05
+Quality: 4/5   Difficulty: 4/5   Would take again: yes   Grade: B+
+Tags: none
+Comment: Easy to pass, difficult to get an A. Class is lecture-heavy, and although attendance is not required, you definitely should not miss a class unless you want to fall behind. She provides a lot of relevant assignments and projects to help you get the material down. Very quick to respond to emails and grade assignments/exams
+
+------------------------------------------------------------
+
+Class: CPSC332   Date: 2022-12-19
+Quality: 5/5   Difficulty: 3/5   Would take again: yes   Grade: B+
+Tags: Group projects, Amazing lectures , Inspirational
+Comment: She cares a lot about her students and puts a lot of effort in making the students know the concepts. The lectures are easy to follow, posted before class and is easily available in office hours. Very responsive to emails and a fair and quick grader. Would love to take a class with her again and recommend her to others.
+
+------------------------------------------------------------
+
+Class: CPSC332   Date: 2022-12-18
+Quality: 1/5   Difficulty: 3/5   Would take again: no   Grade: B+
+Tags: Group projects, Lots of homework, Test heavy
+Comment: She took care her sides every class meeting,but there were still mistakes making confuse in formulas.There are 2 exams only,1 group project, and 4 home-works. Almost they are so long and take a lot of time to do.The really bad thing is the tests are much difficult and/or longer than what she taught, open book is not help.Its a challenge to get A.
+
+------------------------------------------------------------
+
+Class: CPSC315   Date: 2022-05-19
+Quality: 1/5   Difficulty: 5/5   Would take again: no   Grade: B+
+Tags: Get ready to read, Lecture heavy, Graded by few things
+Comment: Listen, professor Sood is extremely brilliant and puts a lot of effort into constructing the course. However, if you enjoy reading and memorizing 10 chapters of a textbook in order to earn an A on exams it is the only way to earn an A. This class is EXTREMELY text heavy. Avoid until she readjusts criteria to fit time expedience for a 3 unit course
+
+------------------------------------------------------------
+
+Class: CPSC332   Date: 2022-03-17
+Quality: 5/5   Difficulty: 3/5   Would take again: yes   Grade: B
+Tags: Tough grader, Clear grading criteria, Lecture heavy
+Comment: Dr. Sood was great at explaining and really took the time to make sure that her students understood the material. You will have to put in hard work for assignments/projects but it is doable. As long as you try in the course and follow along in lectures it will be an easy class to pass. She responds very fast to emails and is flexible
+
+------------------------------------------------------------
+
+Class: CPSC315   Date: 2021-09-17
+Quality: 1/5   Difficulty: 3/5   Would take again: no   Grade: A-
+Tags: Participation matters, Skip class? You won't pass.
+Comment: I had an emergency during class. I emailed Dr. Sood letting her know that I can't make it to class &amp; she said that it was okay but she marked me down a bunch of participation points, even though missing class was out of my control. I would privately message questions to her on Zoom &amp; she would let the class know that I messaged her. do not take!!
+
+------------------------------------------------------------
+
+Class: CPSC313   Date: 2021-06-30
+Quality: 1/5   Difficulty: 2/5   Would take again: no   Grade: A
+Tags: Lots of homework, Get ready to read, Lecture heavy
+Comment: Took for a GE. Two presentations along with an essay, two exams, a handful of quizzes. Though it was an easy A, her assignments were released inconsistently throughout the week which made it easier to overlook. Difficult to contact her and if you do, you'll find that she gives vague replies that don't help with your questions. Advise you avoid her.
+
+------------------------------------------------------------
