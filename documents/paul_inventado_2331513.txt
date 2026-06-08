@@ -118,7 +118,7 @@ Comment: This was an amazing class. He goes beyond the department outline and te
 Class: CPSC121   Date: 2021-05-19
 Quality: 4/5   Difficulty: 4/5   Would take again: yes   Grade: N/A
 Tags: Accessible outside class, Caring, Tough grader
-Comment: Prof. Inventado is incredibly nice and easy to reach outside of class for additional help. His class is pretty tough if your coding skills arent strong. Highly recommend doing some practice before taking this course so you wont struggle too much with the labs &amp; project. Interesting &amp; challenging class!
+Comment: Prof. Inventado is incredibly nice and easy to reach outside of class for additional help. His class is pretty tough if your coding skills arent strong. Highly recommend doing some practice before taking this course so you wont struggle too much with the labs & project. Interesting & challenging class!
 
 ------------------------------------------------------------
 

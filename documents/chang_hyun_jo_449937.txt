@@ -331,7 +331,7 @@ Comment: Pros: Nice guy, provides all lecture notes on Blackboard, provides ungr
 Class: CPSC461   Date: 2006-05-07
 Quality: 1/5   Difficulty: 3/5   Would take again: no   Grade: N/A
 Tags: none
-Comment: Terrible.  Cannot explain the most fundamental SE concepts.  Embarrasses students in lab by making them give presentations on things we don't understand and he refuses to explain (except to scream &quot;WRONG&quot; at us while we're presenting.)  Truly the worst teacher in the department.  Take ANYONE else besides him.
+Comment: Terrible.  Cannot explain the most fundamental SE concepts.  Embarrasses students in lab by making them give presentations on things we don't understand and he refuses to explain (except to scream "WRONG" at us while we're presenting.)  Truly the worst teacher in the department.  Take ANYONE else besides him.
 
 ------------------------------------------------------------
 
